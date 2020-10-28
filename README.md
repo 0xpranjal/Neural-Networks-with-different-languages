@@ -15,6 +15,7 @@
 - R
 - Julia
 - Lua
-
+- MATLAB
+- C++
 
 ###### Inspired by the works of [Sentdex](https://www.youtube.com/user/sentdex)
