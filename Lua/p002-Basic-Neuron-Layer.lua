@@ -1,6 +1,5 @@
 --[[
 Creates a simple layer of neurons, with 4 inputs.
-Associated YT NNFS tutorial: https://www.youtube.com/watch?v=lGLto9Xd7bU
 ]]--
 
 Inputs = {1.0, 2.0, 3.0, 2.5}
