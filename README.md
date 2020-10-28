@@ -6,3 +6,6 @@
 - R
 - Julia
 - Lua
+
+
+###### Inspired by the works of [Sentdex](https://www.youtube.com/user/sentdex)
