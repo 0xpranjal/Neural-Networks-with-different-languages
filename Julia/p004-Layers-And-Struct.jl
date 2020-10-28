@@ -1,6 +1,3 @@
-#=
-Associated YT tutorial: https://youtu.be/TEWy9vZcxW4
-=#
 
 using Random
 

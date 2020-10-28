@@ -1,7 +1,3 @@
-#=
-Doing dot product with a layer of neurons and multiple inputs
-Associated YT NNFS tutorial: https://www.youtube.com/watch?v=tMrbN67U9d4
-=#
 
 inputs = [1.0, 2.0, 3.0, 2.5]
 weights = [ 0.2   0.8  -0.5   1.0;
