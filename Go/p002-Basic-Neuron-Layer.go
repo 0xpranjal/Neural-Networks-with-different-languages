@@ -1,7 +1,4 @@
-/*
-Creates a basic neuron with 3 inputs.
-Associated YT NNFS tutorial: https://www.youtube.com/watch?v=Wo5dMEP_BbI
-*/
+
 package main
 
 import ("fmt")
