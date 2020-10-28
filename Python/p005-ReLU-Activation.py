@@ -1,10 +1,17 @@
-import numpy as np 
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Oct 16 23:27:29 2020
+
+@author: pranjal27bhardwaj
+"""
+import numpy as np
 import nnfs
 from nnfs.datasets import spiral_data  # See for code: https://gist.github.com/Sentdex/454cb20ec5acf0e76ee8ab8448e6266c
 
 nnfs.init()
 
-X, y = spiral_data(100, 3)   
+X, y = spiral_data(100, 3)
 
 
 class Layer_Dense:
